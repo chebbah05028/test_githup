@@ -2,4 +2,4 @@
 INIT code
 '''
 
-print("login or register ")
+print("login or REGWSTER ") #regester
